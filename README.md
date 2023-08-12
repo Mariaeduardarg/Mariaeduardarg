@@ -11,8 +11,8 @@
 
 <div>
   <a href="https://github.com/Mariaeduardarg">
-  <img height="40em" src="https://github-readme-stats.vercel.app/api?username=Mariaeduardarg&show_icons=true&theme=radical"/>
-  <img height="40em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mariaeduardarg&hide_progress=true"/>
+  <img height="150rem" src="https://github-readme-stats.vercel.app/api?username=Mariaeduardarg&show_icons=true&theme=radical"/>
+  <img height="150rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mariaeduardarg&hide_progress=true"/>
 </div>
 <br/>
 
