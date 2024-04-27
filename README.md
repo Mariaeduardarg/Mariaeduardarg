@@ -1,7 +1,7 @@
 <h1>Olá mundo! Meu nome é Maria Eduarda ❤️</h1>
 👩‍🎓Hoje sou estudante de back-end e front-end mas meu sonho é trabalhar com front ❤️
 <br/>
-🤰Sou mãe de um bebê de 1 ano e 7 meses e estou grávida do(a) segundo(a) filho(a) 🥰
+🤰Sou mãe de dois meninos, Lucca e Ravi 🥰
 <br/>
 📚Tenho um grande conhecimento em HTML, CSS e Javascript 😍
 <br/>
